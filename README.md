@@ -2,10 +2,10 @@
 A simple, attractive, and easy-to-use Android application to post, track, and share a user's moods.
 
 <p float="left">
- <img width="200" src="https://raw.githubusercontent.com/CMPUT301F19T09/vibes/imgs/doc/design/wiki/imgs/Screenshot_6.png?raw=true" />
-<img width="200" style="float:left" src="https://github.com/CMPUT301F19T09/vibes/blob/imgs/doc/design/wiki/imgs/device-2019-12-01-002610.png?raw=true" />
-<img width="200" src="https://github.com/CMPUT301F19T09/vibes/blob/imgs/doc/design/wiki/imgs/device-2019-12-01-002743.png?raw=true" />
-  <img width="200" src="https://github.com/CMPUT301F19T09/vibes/blob/imgs/doc/design/wiki/imgs/device-2019-12-01-004108.png?raw=true" />
+ <img width="200" src="https://github.com/adriancleung/vibes/blob/master/doc/design/wiki/imgs/Screenshot_6.png?raw=true" />
+<img width="200" style="float:left" src="https://github.com/adriancleung/vibes/blob/master/doc/design/wiki/imgs/device-2019-12-01-002610.png?raw=true" />
+<img width="200" src="https://github.com/adriancleung/vibes/blob/master/doc/design/wiki/imgs/device-2019-12-01-002743.png?raw=true" />
+  <img width="200" src="https://github.com/adriancleung/vibes/blob/master/doc/design/wiki/imgs/device-2019-12-01-004108.png?raw=true" />
 </p>
 
 To assist in understanding the emotional states and triggers of individuals and groups, we developed a mobile application that allows one to post, track, and share their moods.
@@ -14,7 +14,7 @@ For university students or staff that participate in using the app, this could a
 
 vibes updates in real time allowing users to see changes without having to navigate through to app to pull updates from the Firebase Cloud Firestore database. It implements Google Maps API for visualizing localization of mood events. Users can follow others or be followed allowing users to be connected.
 
-See the [wiki](https://github.com/CMPUT301F19T09/vibes/wiki) for documentation, implementation details, and history.
+See the [wiki](https://github.com/adriancleung/vibes/wiki) for documentation, implementation details, and history.
 
 #### Contributors:
 <table>
