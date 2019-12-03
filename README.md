@@ -27,12 +27,11 @@ See the [wiki](https://github.com/adriancleung/vibes/wiki) for documentation, im
     <td><a href="https://github.com/davidherczeg"/><img src="https://avatars3.githubusercontent.com/u/17938001?s=180&v=4" width="200"></td>
    </tr>
    <tr>
-<td>Fatih Aktas</td>
-<td>Grayson Germsheid</td>
-<td>Adrian Leung</td>
-<td>Josh Sabet</td>
-<td>Taylor Zowtuk</td>
-<td>David Herczeg</td>
-    </tr>
-<tr>
+    <td>Fatih Aktas</td>
+    <td>Grayson Germsheid</td>
+    <td>Adrian Leung</td>
+    <td>Josh Sabet</td>
+    <td>Taylor Zowtuk</td>
+    <td>David Herczeg</td>
+   </tr>
 </table>
