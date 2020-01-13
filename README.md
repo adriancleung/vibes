@@ -27,15 +27,15 @@ See the [wiki](https://github.com/CMPUT301F19T09/vibes/wiki) for documentation, 
 ### Contributors:
 <table>
    <tr>
-       <td><img src="https://avatars0.githubusercontent.com/u/12985956?s=400&u=94c55a0477ee3d744e58406b3ad84e2108a5ae76&v=4" width="200"></td>
-       <td><img src="https://avatars2.githubusercontent.com/u/10505172?s=460&v=4" width="200"></td>
-<td><img src="https://avatars3.githubusercontent.com/u/10913917?s=460&v=4" width="200"></td>
-<td><img src="https://avatars2.githubusercontent.com/u/35352927?s=180&v=4" width="200"></td>
-<td><img src="https://avatars3.githubusercontent.com/u/43101199?s=460&v=4" width="200"></td>
-<td><img src="https://avatars3.githubusercontent.com/u/17938001?s=180&v=4" width="200"></td>
+       <td><a href="https://github.com/aktasfatih"/><img src="https://avatars0.githubusercontent.com/u/12985956?s=400&v=4" width="200"></td>
+     <td><a href="https://github.com/graysongermsheid"/><img src="https://avatars2.githubusercontent.com/u/10505172?s=460&v=4" width="200"></td>
+     <td><a href="https://github.com/adriancleung"/><img src="https://avatars3.githubusercontent.com/u/10913917?s=460&v=4" width="200"></td>
+     <td><a href="https://github.com/JoshSabet"/><img src="https://avatars2.githubusercontent.com/u/35352927?s=180&v=4" width="200"></td>
+     <td><a href="https://github.com/TaylorZowtuk"/><img src="https://avatars3.githubusercontent.com/u/43101199?s=460&v=4" width="200"></td>
+     <td><a href="https://github.com/davidherczeg"/><img src="https://avatars3.githubusercontent.com/u/17938001?s=180&v=4" width="200"></td>
    </tr>
    <tr>
-       <td>Fatih Aktas</td>
+<td>Fatih Aktas</td>
 <td>Grayson Germsheid</td>
 <td>Adrian Leung</td>
 <td>Josh Sabet</td>
